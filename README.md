@@ -63,11 +63,12 @@ The Power BI report contains multiple pages, including:
 Screenshots of the visuals can be found in the /images folder.
 
 ## How to Use
-- Acsess the Power BI report (Tech Giants: Stock Data Analysis (2014-2023)) in Power BI Service.
-  -- [Report LINK](https://app.powerbi.com/view?r=eyJrIjoiMzMzZjc2MmUtNTRhOC00Yjk1LWJiNGItMmEyMDVkNjg0MTk0IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9&pageName=0125dd1e7ef2cca241c7)
+- Access the Power BI report (Tech Giants: Stock Data Analysis (2014-2023)) in Power BI Service.
+  -- <a href="https://app.powerbi.com/view?r=eyJrIjoiMzMzZjc2MmUtNTRhOC00Yjk1LWJiNGItMmEyMDVkNjg0MTk0IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9&pageName=0125dd1e7ef2cca241c7" target="_blank">Report LINK</a>
 - Select a company from the sidebar to view its specific stock data and financial metrics.
 - Use the slicers (Date, Company) to filter data for a specific period or company.
 - Navigate between the different pages for in-depth analysis of stock performance and risk.
+
 
 ## Contributing
 Feel free to contribute to this project by submitting a pull request. For major changes, please open an issue to discuss what you would like to change.
