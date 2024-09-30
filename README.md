@@ -2,14 +2,13 @@
 This repository contains an interactive stock data analysis dashboard for America's leading tech companies: Apple (AAPL), Amazon (AMZN), Google (GOOG), and Microsoft (MSFT). The dashboard has been created using Power BI and data retrieved via the Yahoo Finance API in Python.
 
 ## Table of Contents
-- Overview
-- Data Source
-- Installation
+- [Overview](#overview)
+- [Data Source](#data-source)
 - Project Structure
 - Features
 - Visualization
 - How to Use
-- Contributing
+- [Contributing](#contributing)
 - License
 
 ## Overview
