@@ -4,12 +4,12 @@ This repository contains an interactive stock data analysis dashboard for Americ
 ## Table of Contents
 - [Overview](#overview)
 - [Data Source](#data-source)
-- Project Structure
-- Features
-- Visualization
-- How to Use
-- [Contributing](#contributing)
-- License
+- [Project Structure](#project-Structure)
+- [Features](#features)
+- [Visualization](#visualization)
+- [How to Use](#how-to-Use)
+- [[Contributing](#contributing)
+- [License](#license)
 
 ## Overview
 This project provides a comprehensive analysis of stock performance, financial metrics, and risk analysis of four major tech companies between 2014 and 2023. The goal is to offer insights into price movements, returns, and risk measures like CAPM and - Sharpe Ratio using interactive visuals.
