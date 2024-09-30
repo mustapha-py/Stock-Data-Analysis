@@ -28,7 +28,7 @@ Python scripts used to retrieve and preprocess the data are located in the /scri
 ```bash
 ├── README.md
 ├── scripts
-│   └── retrieve_data.py       # Python script to fetch stock data from Yahoo Finance
+│   └── data_preparation.py       # Python script to fetch and prepare stock data from Yahoo Finance
 ├── data
 │   └── *.csv                  # Cleaned stock data
 ├── Tech Giants Stock Data Analysis.pbix   # Power BI report file
