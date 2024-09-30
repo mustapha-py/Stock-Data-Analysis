@@ -8,7 +8,7 @@ This repository contains an interactive stock data analysis dashboard for Americ
 - [Features](#features)
 - [Visualization](#visualization)
 - [How to Use](#how-to-Use)
-- [[Contributing](#contributing)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
