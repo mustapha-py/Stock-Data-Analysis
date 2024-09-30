@@ -120,7 +120,7 @@ Stocks_Market.head(10)
 
 # ## 10. Save Merged Data to CSV 
 # Uncomment if needed
-# Stocks_Market.to_csv(r'C:\Users\HP-840\Desktop\Data projects\American Stocks\10 Years\CAPM_Data.csv')
+# Stocks_Market.to_csv(r'......\Stocks_Market.csv')
 
 
 # ## 11. CAPM Calculations
