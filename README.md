@@ -70,6 +70,7 @@ Screenshots of the visuals can be found in the /images folder.
 - Navigate between the different pages for in-depth analysis of stock performance and risk.
 
 
+
 ## Contributing
 Feel free to contribute to this project by submitting a pull request. For major changes, please open an issue to discuss what you would like to change.
 
