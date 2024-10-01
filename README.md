@@ -64,7 +64,7 @@ Screenshots of the visuals can be found in the /images folder.
 
 ## How to Use
 - Access the Power BI report (Tech Giants: Stock Data Analysis (2014-2023)) in Power BI Service.
-  -- [Report LINK](https://app.powerbi.com/view?r=eyJrIjoiMzMzZjc2MmUtNTRhOC00Yjk1LWJiNGItMmEyMDVkNjg0MTk0IiwidCI6Ijg0ZDI3MGQyLTBiYzUtNGQ1NS1iZjBhLTI3NGYxYTU3NmNiZiJ9&pageName=0125dd1e7ef2cca241c7)
+  -- [Report LINK](https://tinyurl.com/4k3pnc9a)
   > Right-click the link and select "Open in new tab" or "Open in new window" for better navigation.
   
 - Select a company from the sidebar to view its specific stock data and financial metrics.
