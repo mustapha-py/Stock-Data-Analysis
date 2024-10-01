@@ -31,10 +31,8 @@ Python scripts used to retrieve and preprocess the data are located in the /scri
 │   └── data_preparation.py       # Python script to fetch and prepare stock data from Yahoo Finance
 ├── data
 │   └── *.csv                  # Cleaned stock data
-├── Tech Giants Stock Data Analysis.pbix   # Power BI report file
 ├── images
-│   └── dashboard_screenshot_1.jpg # Example screenshots of the Power BI dashboard
-└── requirements.txt           # Python dependencies
+    └── dashboard_screenshot.png # Example screenshots of the Power BI dashboard
 ```
 
 ## Features
