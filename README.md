@@ -1,4 +1,4 @@
-# Tech Giants: Stock Data Analysis (2014-2023)
+# Big Tech : Stock Data Analysis (2014-2023)
 This repository contains an interactive stock data analysis dashboard for America's leading tech companies: Apple (AAPL), Amazon (AMZN), Google (GOOG), and Microsoft (MSFT). The dashboard has been created using Power BI and data retrieved via the Yahoo Finance API in Python.
 
 ## Table of Contents
@@ -61,7 +61,7 @@ The Power BI report contains multiple pages, including:
 Screenshots of the visuals can be found in the /images folder.
 
 ## How to Use
-- Access the Power BI report (Tech Giants: Stock Data Analysis (2014-2023)) in Power BI Service.
+- Access the Power BI report (Big Tech : Stock Data Analysis (2014-2023)) in Power BI Service.
   -- [Report LINK](https://tinyurl.com/4k3pnc9a)
   > Right-click the link and select "Open in new tab" or "Open in new window" for better navigation.
   
